@@ -1,2 +1,2 @@
-# cybersecurity-journey
-Documentation of my cybersecurity journey 2026
+# cybersecurity-portfolio
+My hands-on cybersecurity learning portfolio
